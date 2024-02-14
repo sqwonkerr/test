@@ -1,3 +1,3 @@
-print('Hello GitHub')
+def calc(f, s):
+    return f + s
 
-print("Pull this")
